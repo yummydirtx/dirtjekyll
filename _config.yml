@@ -29,6 +29,9 @@ url: "https://yummydirt.me" # the base hostname & protocol for your site, e.g. h
 twitter_username: yummydirt
 github_username:  yummydirtx
 
+minima:
+  skin: dark
+
 # Build settings
 theme: minima
 plugins:
