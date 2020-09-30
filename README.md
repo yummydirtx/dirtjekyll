@@ -1,2 +1,0 @@
-# dirtjekyll
-New blog maybe
